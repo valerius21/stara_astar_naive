@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "stara-astar-naive"
+name = "stara-astar"
 version = "0.1.0"
 description = ""
 authors = ["Valerius Mattfeld <mail@valerius.me>"]
